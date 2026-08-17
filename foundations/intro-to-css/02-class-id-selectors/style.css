@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#no-2 {
+    color: blue;
+    font-size: 32px;
+}
+
+#no-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
